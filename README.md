@@ -35,7 +35,7 @@ _These plans will be sketchy, but the simple act of beginning to plan will help 
 
 _Getting oriented to the business means learning about the company as a whole and not only your specific parts of the business. To adapt successfully, you need to understand what the culture is overall and how it’s manifested in the organization or unit you’re joining_
 
-# The most important focus for the initial 30 days will be in building relationships and understanding the culture, while also defining a clear learning agenda for the rest of your 90 day onboarding process #
+## The most important focus for the initial 30 days will be in building relationships and understanding the culture, while also defining a clear learning agenda for the rest of your 90 day onboarding process ##
 
 _The first task in making a successful transition is to accelerate your learning. Effective learning gives you the foundational insights you need as you build your plan for the next 90 days. It is essential to figure out what you need to know about your new organization and then to learn it as rapidly as you can. The more efficiently and effectively you learn, the more quickly you will close your window of vulnerability._
                 
