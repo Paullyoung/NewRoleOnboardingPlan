@@ -1,11 +1,12 @@
 # NewRoleOnboardingPlan
 A generic 30/60/90 day onboarding plan for a new role, based on the book 'The First 90 Days' by Michael Watkins
 
-# Onboarding Plan: Inspired by Watkin's 'First 90 Days'
+# Onboarding Plan: Inspired by Watkins' 'First 90 Days'
 
 ## Introduction
 
 Welcome to your onboarding guide, inspired by highly regarded business book *The First 90 Days* by Michael D. Watkins. This book gives clear, practical advice on how to do well quickly in a new job, especially in leadership roles. This plan uses ideas from the book (and quotes of key sections) to help you fit in, get up to speed, and start making a difference in your new role as soon as possible. Note that the focus is primarily on a role that is 'first of its kind' in a larger company (not a role that adopts an existing team, or needs to define itself in a pure startup environment)
+(Note: Text in _italics_ is direct quotes from the book)
 
 ## Key Principles
 Do these things well, and you'll be set up for success:
