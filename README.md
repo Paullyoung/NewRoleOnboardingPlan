@@ -26,10 +26,13 @@ _- Keep your balance. In the personal and professional tumult of a transition, y
 _- Accelerate everyone. Finally, you need to help all those in your organization—direct reports, bosses, and peers—accelerate their own transitions. The fact that you’re in transition means they are too._ 
 
 ## 30-Day Plan: Getting Started
-_No matter how much preparation time you get, start planning what you hope to accomplish by specific milestones.
-Begin by thinking about your first day in the new job. What do you want to do by the end of that day? Then move to the first week. Then focus on the end of the first month, the second month, and finally the three-month mark. These plans will be sketchy, but the simple act of beginning to plan will help clear your head. At the broadest level, preparing yourself means letting go of the past and embracing the imperatives of the new situation to give yourself a running start. It can be hard work, but it is essential. Often, promising managers fail in new roles because they’ve failed to prepare themselves by embracing the necessary changes in perspective._
-_Getting oriented to the business means learning about the company as a whole and not only your specific parts of the business.
-To adapt successfully, you need to understand what the culture is overall and how it’s manifested in the organization or unit you’re joining_
+_No matter how much preparation time you get, start planning what you hope to accomplish by specific milestones._
+
+_Begin by thinking about your first day in the new job. What do you want to do by the end of that day? Then move to the first week. Then focus on the end of the first month, the second month, and finally the three-month mark. _
+
+_These plans will be sketchy, but the simple act of beginning to plan will help clear your head. At the broadest level, preparing yourself means letting go of the past and embracing the imperatives of the new situation to give yourself a running start. It can be hard work, but it is essential. Often, promising managers fail in new roles because they’ve failed to prepare themselves by embracing the necessary changes in perspective._
+
+_Getting oriented to the business means learning about the company as a whole and not only your specific parts of the business. To adapt successfully, you need to understand what the culture is overall and how it’s manifested in the organization or unit you’re joining_
 
 # The most important focus for the initial 30 days will be in building relationships and understanding the culture, while also defining a clear learning agenda for the rest of your 90 day onboarding process #
 
@@ -39,9 +42,11 @@ _The faster you climb the learning curve, the earlier you can begin to make good
 Planning to learn means figuring out in advance what the important questions are and how you can best answer them. Effective learning calls for figuring out what you need to learn so that you can focus your efforts. Remember: simply displaying a genuine desire to learn and understand translates into increased credibility and influence._
 
 # Develop Your Learning Agenda & accelerate your learning #
-_Devote some time to defining your learning agenda as early as possible, and return to it periodically to refine and supplement it. Efficient learning means identifying the best available sources of insight and then figuring out how to extract maximum insight with the least possible outlay of time.
-The starting point is to begin to define your learning agenda, ideally before you formally enter the organization. A learning agenda crystallizes your learning priorities: what do you most need to learn? It consists of a focused set of questions to guide your inquiry or the hypotheses you want to explore and test, or both. Of course, learning during a transition is iterative: at first, your learning agenda will consist mostly of questions, but as you learn more, you will hypothesize about what is going on and why.
-A smart approach is to use a standard set of questions about the business. This approach is powerful, because the responses you get are comparable. You can line them up side by side and analyze what is consistent and inconsistent about the responses._
+_Devote some time to defining your learning agenda as early as possible, and return to it periodically to refine and supplement it. Efficient learning means identifying the best available sources of insight and then figuring out how to extract maximum insight with the least possible outlay of time._
+
+_The starting point is to begin to define your learning agenda, ideally before you formally enter the organization. A learning agenda crystallizes your learning priorities: what do you most need to learn? It consists of a focused set of questions to guide your inquiry or the hypotheses you want to explore and test, or both. Of course, learning during a transition is iterative: at first, your learning agenda will consist mostly of questions, but as you learn more, you will hypothesize about what is going on and why._
+
+_A smart approach is to use a standard set of questions about the business. This approach is powerful, because the responses you get are comparable. You can line them up side by side and analyze what is consistent and inconsistent about the responses._
 
 _- What are the biggest challenges the organization is facing (or will face in the near future)?_ 
 _- Why is the organization facing (or going to face) these challenges?_ 
