@@ -6,6 +6,7 @@ A generic 30/60/90 day onboarding plan for a new role, based on the book 'The Fi
 ## Introduction
 
 Welcome to your onboarding guide, inspired by highly regarded business book *The First 90 Days* by Michael D. Watkins. This book gives clear, practical advice on how to do well quickly in a new job, especially in leadership roles. This plan uses ideas from the book (and quotes of key sections) to help you fit in, get up to speed, and start making a difference in your new role as soon as possible. Note that the focus is primarily on a role that is 'first of its kind' in a larger company (not a role that adopts an existing team, or needs to define itself in a pure startup environment)
+
 (Note: Text in _italics_ is direct quotes from the book)
 
 ## Key Principles
@@ -28,7 +29,7 @@ _- Accelerate everyone. Finally, you need to help all those in your organization
 ## 30-Day Plan: Getting Started
 _No matter how much preparation time you get, start planning what you hope to accomplish by specific milestones._
 
-_Begin by thinking about your first day in the new job. What do you want to do by the end of that day? Then move to the first week. Then focus on the end of the first month, the second month, and finally the three-month mark. _
+_Begin by thinking about your first day in the new job. What do you want to do by the end of that day? Then move to the first week. Then focus on the end of the first month, the second month, and finally the three-month mark._
 
 _These plans will be sketchy, but the simple act of beginning to plan will help clear your head. At the broadest level, preparing yourself means letting go of the past and embracing the imperatives of the new situation to give yourself a running start. It can be hard work, but it is essential. Often, promising managers fail in new roles because they’ve failed to prepare themselves by embracing the necessary changes in perspective._
 
@@ -79,25 +80,34 @@ For the next 30 days (30-60 days in your role) you'll be succeeding if you can s
 # Key Conversations + relationship building with your manager #
 
 # Situational Diagnosis #
+
 _How did the organization reach this point? What factors—both soft and hard—make this situation a challenge? What resources within the organization can you draw on? Your view may differ from your boss’s, but it is essential to grasp how she sees the situation._
 
 # Setting Clear Expectations #
-_Clarify expectations early and often. Begin managing expectations from the moment you consider taking a new role. Focus on expectations during the interview process.
-Aim for early wins in areas important to the boss. Whatever your own priorities, figure out what your boss cares about most. What are his priorities and goals, and how do your actions fit into this picture? One good way is to focus on three things that are important to your boss and discuss what you’re doing about them every time you interact. In that way, your boss will feel ownership of your success._
+
+_Clarify expectations early and often. Begin managing expectations from the moment you consider taking a new role. Focus on expectations during the interview process._
+
+_Aim for early wins in areas important to the boss. Whatever your own priorities, figure out what your boss cares about most. What are his priorities and goals, and how do your actions fit into this picture? One good way is to focus on three things that are important to your boss and discuss what you’re doing about them every time you interact. In that way, your boss will feel ownership of your success._
+
 _The expectations conversation: Your goal in this conversation is to understand and negotiate expectations. What does your new boss need you to do in the short term and in the medium term? What will constitute success? Critically, how will your performance be measured? When?_
+
 _Once you’re a few months into your new role, you can begin to discuss how you’re doing and what your developmental priorities should be. Where are you doing well? In what areas do you need to improve or do things differently?_
 
 # Working Style #
+
 _The style conversation: This conversation is about how you and your new boss can best interact on an ongoing basis. What forms of communication does she prefer, and for what? Face-to-face? Voice, electronic? How often? What kinds of decisions does she want to be consulted on, and when can you make the call on your own? How do your styles differ, and what are the implications for the ways you should interact?_
 
 # Resourcing #
-_The resource conversation: This conversation is essentially a negotiation for critical resources. What do you need to be successful? What do you need your boss to do? The resources need not be limited to funding or personnel.
-Key here is to focus your boss on the benefits and costs of what you can accomplish with different amounts of resources._
 
-_Your early conversations should focus on situational diagnosis, expectations, and style. As you learn more, you will be ready to negotiate for resources, revisiting your diagnosis of the situation and resetting expectations as necessary.
-Take time to plan for each conversation, and signal clearly to your boss what you hope to accomplish in each exchange.
-Reaching a shared understanding of the business situation you face, and of its associated challenges and opportunities, is your goal in the situational diagnosis conversations.
-This shared understanding is the foundation for everything you will do. If you and your boss do not define your new situation in the same way, you will not receive the support you need. Think carefully about the role you need your new boss to play and the kinds of support you will ask for._
+_The resource conversation: This conversation is essentially a negotiation for critical resources. What do you need to be successful? What do you need your boss to do? The resources need not be limited to funding or personnel. Key here is to focus your boss on the benefits and costs of what you can accomplish with different amounts of resources._
+
+_Your early conversations should focus on situational diagnosis, expectations, and style. As you learn more, you will be ready to negotiate for resources, revisiting your diagnosis of the situation and resetting expectations as necessary._
+
+_Take time to plan for each conversation, and signal clearly to your boss what you hope to accomplish in each exchange._
+
+_Reaching a shared understanding of the business situation you face, and of its associated challenges and opportunities, is your goal in the situational diagnosis conversations._
+
+_This shared understanding is the foundation for everything you will do. If you and your boss do not define your new situation in the same way, you will not receive the support you need. Think carefully about the role you need your new boss to play and the kinds of support you will ask for._
 
 ### Objectives
 
