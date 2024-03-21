@@ -150,11 +150,16 @@ _This shared understanding is the foundation for everything you will do. If you 
 ### Transition Traps to be aware of
 There are some common potholes new hires can fall into, so be wary for:
 
-_Sticking with what you know. You believe you will be successful in the new role by doing the same things you did in your previous role,
-Setting unrealistic expectations. You don’t negotiate your mandate or establish clear, achievable objectives.
-Attempting to do too much. You rush off in all directions, launching multiple initiatives in the hope that some will pay off.
-Coming in with “the” answer. You come in with your mind made up, or you reach conclusions too quickly about “the” problems and “the” solutions. You alienate people who could help you understand
-Falling prey to the 'action imperitive' - you try to do too much, too fast._
+_Sticking with what you know. You believe you will be successful in the new role by doing the same things you did in your previous role._
+
+_Setting unrealistic expectations. You don’t negotiate your mandate or establish clear, achievable objectives._
+
+_Attempting to do too much. You rush off in all directions, launching multiple initiatives in the hope that some will pay off._
+
+_Coming in with “the” answer. You come in with your mind made up, or you reach conclusions too quickly about “the” problems and “the” solutions. You alienate people who could help you understand_
+
+_Falling prey to the 'action imperitive' - you try to do too much, too fast._
+
 _Perhaps the biggest pitfall you face is assuming that what has made you successful to this point will continue to do so. The dangers of sticking with what you know, working extremely hard at doing it, and failing miserably are very real._
 
 ## Conclusion
