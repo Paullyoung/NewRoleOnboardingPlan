@@ -12,12 +12,18 @@ Welcome to your onboarding guide, inspired by highly regarded business book *The
 Do these things well, and you'll be set up for success:
 
 _- Prepare yourself. This means making a mental break from your old job and preparing to take charge in the new one_
-_ - Accelerate your learning. You need to climb the learning curve as fast as you can in your new organization. This means understanding its markets, products, technologies, systems, and structures, as well as its culture and politics. You must be systematic and focused about deciding what you need to learn and how you will learn it most efficiently._
-_ - Secure early wins. Early wins build your credibility and create momentum. In the first few weeks, you need to identify opportunities to build personal credibility. In the first 90 days, you need to identify ways to create value and improve business results._
-_ - Negotiate success. Because no other single relationship is more important, you need to figure out how to build a productive working relationship with your new boss (or bosses) and manage her expectations. Ensure you're aligned on your 90 day plan._
-_ - Create coalitions. Supportive alliances, both internal and external, are necessary if you are to achieve your goals. You therefore should start right away to identify those whose support is essential for your success, and to figure out how to line them up on your side._
-_ - Keep your balance. In the personal and professional tumult of a transition, you must work hard to maintain your equilibrium and preserve your ability to make good judgments. The risks of losing perspective, becoming isolated, and making bad calls are ever present during transitions - ensure you have the right advisors._
-_ - Accelerate everyone. Finally, you need to help all those in your organization—direct reports, bosses, and peers—accelerate their own transitions. The fact that you’re in transition means they are too._ 
+
+_- Accelerate your learning. You need to climb the learning curve as fast as you can in your new organization. This means understanding its markets, products, technologies, systems, and structures, as well as its culture and politics. You must be systematic and focused about deciding what you need to learn and how you will learn it most efficiently._
+
+_- Secure early wins. Early wins build your credibility and create momentum. In the first few weeks, you need to identify opportunities to build personal credibility. In the first 90 days, you need to identify ways to create value and improve business results._
+
+_- Negotiate success. Because no other single relationship is more important, you need to figure out how to build a productive working relationship with your new boss (or bosses) and manage her expectations. Ensure you're aligned on your 90 day plan._
+
+_- Create coalitions. Supportive alliances, both internal and external, are necessary if you are to achieve your goals. You therefore should start right away to identify those whose support is essential for your success, and to figure out how to line them up on your side._
+
+_- Keep your balance. In the personal and professional tumult of a transition, you must work hard to maintain your equilibrium and preserve your ability to make good judgments. The risks of losing perspective, becoming isolated, and making bad calls are ever present during transitions - ensure you have the right advisors._
+
+_- Accelerate everyone. Finally, you need to help all those in your organization—direct reports, bosses, and peers—accelerate their own transitions. The fact that you’re in transition means they are too._ 
 
 ## 30-Day Plan: Getting Started
 _No matter how much preparation time you get, start planning what you hope to accomplish by specific milestones.
