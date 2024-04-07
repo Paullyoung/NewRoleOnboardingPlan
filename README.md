@@ -1,5 +1,5 @@
 # NewRoleOnboardingPlan
-A generic 30/60/90 day onboarding plan for a new role, based on the book 'The First 90 Days' by Michael Watkins
+A generic 30/60/90 day onboarding plan for a new role, based on the book '[The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612)' by Michael Watkins.
 
 # Onboarding Plan: Inspired by Watkins' 'First 90 Days'
 
